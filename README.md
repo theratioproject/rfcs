@@ -72,7 +72,7 @@ for inclusion in simple-lang.
 * RFCs that are candidates for inclusion in simple-lang will enter a "final comment
 period" lasting 7 days. The beginning of this period will be signaled with a
 comment and tag on the RFC's pull request. Furthermore,
-[simple-lang's official Twitter account](https://twitter.com/simple-lang) will post a
+[simple-lang's official Twitter account](https://twitter.com//thesimplelang) will post a
 tweet about the RFC to attract the community's attention.
 * An RFC can be modified based upon feedback from the [core team] and community.
 Significant modifications may trigger a new final comment period.
